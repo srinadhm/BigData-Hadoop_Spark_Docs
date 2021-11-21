@@ -1,0 +1,127 @@
+Course content:
+
+Hadoop Overview
+Lecture
+How HDFS read/write the data
+YARN internal architecture
+HDFS Internal Architecture.
+Hands-On
+HDFS Shell Commands
+Install Hadoop & Spark in Ubuntu
+Configure Hadoop/spark environment in Eclipse
+Hive Overview
+Lecture
+How Hive functioning properly
+Optimize Hive queries
+Using Sqoop
+Hands-On
+Process csv, JSON data
+Bucketing, Partitioning tables.
+Import MySQL/Oracle data using Sqoop
+Scala Basics
+Lecture
+Functional language
+Scala Vs Java
+Hands-On
+Strings, Numbers
+List, Array, Map, Set
+Control Statements, collections
+Functions, methods
+Pattern matching
+Spark Overview
+Lecture
+The power of Spark?
+Spark Ecosystem
+Spark Components vs Hadoop
+Hands-On
+Installation & Eclipse configuration
+Programs in Command line Interface & Eclipse
+Process Local, HDFS files
+RDD Fundamentals
+Lecture
+Purpose and Structure of RDDs
+Transformations, Actions, and DAG
+Key-Value Pair RDDs
+Hands-On
+Creating RDDs from Data Files
+Reshaping Data to Add Structure
+Interactive Queries Using RDDs
+SparkSQL and DataFrames
+Lecture
+Spark SQL and DataFrame Uses
+DataFrame / SQL APIs
+Catalyst Query Optimization
+Hands-on
+Creating (CSV, JSON) DataFrames
+Querying with DataFrame API and SQL
+Caching and Re-using DataFrames
+Process Hive data in Spark
+Spark DataSet API
+Lecture
+Power of Dataset API in Spark 2.0
+Serialization concept in DataSet
+Hands-on
+Creating DataSet API
+Process CSV, JSON, XML, Text data
+DataSet Operation
+Spark Job Execution
+Lecture
+Jobs, Stages, and Tasks
+Partitions and Shuffles
+Broadcast Variables and accumulators
+Job Performance
+Hands-On
+Visualizing DAG Execution
+Observing Task Scheduling
+Understanding Performance
+Measuring Memory Usage
+shared variables usage
+Clustering Architecture
+Lecture
+Cluster Managers for Spark: Spark Standalone, YARN, and Mesos
+Understanding Spark on YARN
+What happened in a cluster when you submit a job
+Hands-On
+Tracking Jobs through the Cluster UI
+Understanding Deploy Modes
+Submit a sample job and monitor job
+Spark Streaming
+Lecture
+Streaming Sources and Tasks
+DStream APIs and Stateful Streams
+Flink Introduction
+Kafka architecture
+Hands-On
+Creating DStreams from Sources
+Operating on DStream Data
+Viewing Streaming Jobs in the Web UI
+Sample Flink Streaming program.
+Kafka sample program
+AWS with Spark
+Lecture
+AWS architecture
+Redshift, EMR, and EC2 functionalities
+How to minimize AWS cost
+Hands-On
+Submit a sample jar in AWS Cluster
+Create a cluster using EMR
+Read/Write data from Redshift
+Advanced concepts in Spark
+Lecture
+Memory management in Spark
+How to optimize Spark Applications
+Spark how to integrate with other Applications
+Hands-On
+Spark with Cassandra Integration
+Alluxio/Tachyon hands-on experience
+Apache Kudu with spark
+Sample Spark Project
+Lecture
+End to end a project overview
+Complicated problems in a project
+Common steps in any project
+Hands-On
+Implement Spark SQL Mini project
+Kafka, Cassandra, Spark Streaming project
+Pull Twitter data and analyze the data
+Oozie scheduling & shell script

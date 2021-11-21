@@ -1,0 +1,53 @@
+Introduction to BIG DATA: What is, Types, Characteristics & Example
+What is Hadoop? Introduction, Architecture, Ecosystem, Components
+How to Install Hadoop with Step by Step Configuration on Ubuntu
+HDFS Tutorial: Architecture, Read & Write Operation using Java API 1
+What is MapReduce? How it Works - Hadoop MapReduce Tutorial 2
+Hadoop & Mapreduce Examples: Create your First Program 
+Hadoop MapReduce Join & Counter with Example 
+Apache Sqoop Tutorial: What is, Architecture, Example 3
+Apache Flume Tutorial: What is, Architecture & Twitter Example 4
+Hadoop Pig Tutorial: What is, Architecture, Example 5
+Apache Oozie Tutorial: What is, Workflow, Example - Hadoop 6
+Apache Hbase Tutorial: What is Architecture, Example 7
+Apache HIVE Tutorial: what is Architecture Example  8
+Zookeeper Kafka Impala Mahout 
+
+
+1.Installing Ubuntu 16.04 in VM Workstation
+https://www.youtube.com/watch?v=QbmRXJJKsvs
+
+
+2. Hadoop 3 Singlenode installation
+ 
+
+
+1. Introduction to Big Data and Hadoop
+2.Hadoop Vs SQL- Basic Terminologies
+3.Hadoop Architecture(1.x and 2.x & 3.x )
+4. Installing Ubuntu 16.04 and Jdk1.8
+5 Hadoop versioning and modes
+6.Hadoop Daemons
+7.How Map reduce works
+8.Inspiration to Word Count
+9. Hadoop1.2.1 SingleNodeInstallation
+10. HDFS Basic commands
+11.Configuring hadoop in Eclipse
+12.Developing wordcount using Mapreduce
+13.Important Observation WordCount
+14.Map reduce Maven
+
+
+
+Spark
+
+1.Introduction to Spark
+2. Installing Spark on window
+3.Installing scala-sbt-spark in Ubuntu singlenode
+4.Installing IntelliJ and Executing Wordcount in Ubuntu
+5.Spark Core Concepts and RDD
+6.WordCount in Spark REPL Windows
+7.WordCount Using spark,Scala IntelliJ in Windows
+8.Wordcount using REPL Linux
+9.Spark Transformation.
+
